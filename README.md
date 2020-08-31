@@ -2,7 +2,7 @@
 
 | Quiz      |  Status |
 | --------- |  ------ |
-|[Adobe Acrobat](Adobe%20Acrobat/quiz_key.md)|
+|[Adobe Acrobat](Adobe%20Acrobat/quiz_key.md)| 15 questions in [screenshots](Adobe%20Acrobat/screenshots_transpose) to be transposed + fact checked |
 |[Adobe Animate](Adobe%20Animate/quiz_key.md)|
 |[Adobe Illustrator](Adobe%20Illustrator/quiz_key.md)|
 |[Adobe InDesign](Adobe%20InDesign/quiz_key.md)|
