@@ -95,17 +95,17 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="https://github.com/BiosPlus">
-                        <img src="https://avatars3.githubusercontent.com/u/9003059?v=4" width="100;" alt="BiosPlus"/>
-                        <br />
-                        <sub><b>Black</b></sub>
-                    </a>
-                </td>
-                <td align="center">
                     <a href="https://github.com/adriadejuan">
                         <img src="https://avatars2.githubusercontent.com/u/59417678?v=4" width="100;" alt="adriadejuan"/>
                         <br />
                         <sub><b>Adria De Juan</b></sub>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="https://github.com/BiosPlus">
+                        <img src="https://avatars3.githubusercontent.com/u/9003059?v=4" width="100;" alt="BiosPlus"/>
+                        <br />
+                        <sub><b>Black</b></sub>
                     </a>
                 </td></tr>
 <tr>
