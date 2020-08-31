@@ -81,6 +81,6 @@
 |[Transact-SQL (T-SQL)](Transact-SQL%20(T-SQL)/quiz_key.md)|
 |[Unity](Unity/quiz_key.md)|
 |[Visio](Visio/quiz_key.md)|
-|[Visual Basic for Applications (VBA)](Visual%20Basic%20for%20Applications%20(VBA)/quiz_key.md)|
+|[Visual Basic for Applications (VBA)](Visual%20Basic%20for%20Applications%20(VBA)/quiz_key.md)
 |[WordPress](WordPress/quiz_key.md)|
 |[XML](XML/quiz_key.md)|
