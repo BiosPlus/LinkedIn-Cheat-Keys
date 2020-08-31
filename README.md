@@ -10,9 +10,9 @@
 |[Adobe Photoshop](Adobe%20Photoshop/quiz_key.md)|
 |[Adobe XD](Adobe%20XD/quiz_key.md)|
 |[After Effects](After%20Effects/quiz_key.md)|
-|[Agile Methodologies](Agile%20Methodologies/quiz_key.md)|
+|[Agile Methodologies](Agile%20Methodologies/quiz_key.md)| 33 questions answered, 1 missing an answer, needs alphabetizing |
 |[Amazon Web Services (AWS)](Amazon%20Web%20Services%20(AWS)/quiz_key.md)|
-|[Android](Android/quiz_key.md)|
+|[Android](Android/quiz_key.md)| 23 questions answered, 3 questions missing answers, needs alphabetizing |
 |[AngularJS](AngularJS/quiz_key.md)|
 |[ArcGIS Products](ArcGIS%20Products/quiz_key.md)|
 |[AutoCAD](AutoCAD/quiz_key.md)|
